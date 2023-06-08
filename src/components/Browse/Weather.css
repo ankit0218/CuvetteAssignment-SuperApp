@@ -1,0 +1,32 @@
+.Weather-deatils{
+    margin-bottom:12px;
+    font-size:24px;
+    margin-top:10px;
+}
+#Weather-container{
+    display:flex;
+    color:white;
+    align-items:center;
+    justify-content:space-evenly;
+}
+.Weather-data{
+    height:7vh;
+    background:#FF4ADE;
+    border-radius:12px;
+    color:white;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center ;
+    font-size:2rem;
+}
+.Weather-main{
+    width:30vw;
+    min-height:20vh;
+    background:#101744;
+    border-radius:12px;
+    margin-top:5px;
+}
+#W-img{
+    width:30px;
+    height:30px
+}

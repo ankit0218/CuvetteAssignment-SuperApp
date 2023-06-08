@@ -1,0 +1,14 @@
+#button-click{
+    border-radius:12px;
+    width:100px;
+    color:white;
+    border:none;
+    padding:6px;
+    height:30px;
+    flex-shrink:0;
+    margin:10px;
+}
+#span-data{
+    color:black;
+    margin-left:4px;
+}

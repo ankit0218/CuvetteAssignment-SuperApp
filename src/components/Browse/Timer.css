@@ -1,0 +1,35 @@
+.countdown{
+    width:60vw; 
+    height:30vh; 
+    background:#1E2343; 
+    position:absolute; 
+    border-radius:12px; 
+    margin-top:6px; 
+    display:flex; 
+    gap:20px; 
+    box-sizing:border-box; 
+    padding:12px; 
+    align-items:center; 
+    justify-content:space-evenly;
+}
+.Change-time{
+    width:20px;
+    height:20px;
+}
+.Container-styling{
+    text-align:center;
+    padding:6px;
+}
+.Container-main{
+    color:white; 
+    display:flex; 
+    font-size:2rem; 
+    justify-content:space-evenly;
+}
+.Alter-time{
+    background:#FF6A6A; 
+    border-radius:12px; 
+    padding:6px; 
+    color:white; 
+    text-align:center;
+}

@@ -1,0 +1,35 @@
+.Notes-container{
+    color:white;
+    background:#F1C75B;
+    height:60vh;
+    width:30vw;
+    position:relative;
+    border-radius:12px;
+    padding:6px
+}
+#All-notes{
+    color:black;
+    font-size:2rem;
+}
+.Text-area{
+    width:28vw;
+    height:55vh;
+    margin:auto;
+    border:none;
+    background:transparent;
+}
+#Edit-img
+{
+    width:50px;
+    height:50px;
+    position:absolute;
+    bottom:11px;
+    right:5px;
+}
+#pen-img{
+    width:30px;
+    height:30px;
+    position:absolute;
+    bottom:17px;
+    right:10px;
+}
